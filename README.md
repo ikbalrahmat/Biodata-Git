@@ -1,2 +1,2 @@
-# latihan
-Ini Akun Latihan Github
+# Biodata Git
+Tugas Pemrograman Web Statis
